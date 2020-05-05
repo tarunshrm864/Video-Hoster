@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a59ad958-9003-4092-bf71-6ef93e633055" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>images</find>
+      <find>video</find>
+      <find>Image</find>
+      <find>image</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bUpno1oMODouMmxOfUmMaj14u9" />
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587045112994" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Compressed/VIMEO-APP-PROJECT-master" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.upgrad.videohoster.api.exception" />
+      <recent name="com.upgrad.videohoster.service" />
+      <recent name="com.upgrad.videohoster.api.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Work\IdeaProjects\videohoster\videohoster-api\src\main\java\com\upgrad\videohoster\api\controller" />
+      <recent name="C:\Users\Work\IdeaProjects\videohoster\videohoster-service\src\main\java\com\upgrad\videohoster\service\common" />
+      <recent name="C:\Users\Work\IdeaProjects\videohoster\videohoster-service\src\main\java\com\upgrad\videohoster\service\exception" />
+      <recent name="C:\Users\Work\IdeaProjects\videohoster\videohoster-service\src\main\java\com\upgrad\videohoster\service\dao" />
+      <recent name="C:\Users\Work\IdeaProjects\videohoster\videohoster-service\src\main\java\com\upgrad\videohoster\service\entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="VideoHosterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.upgrad.videohoster.api.VideoHosterApplication" />
+      <module name="videohoster-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upgrad.videohoster.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VideoHosterApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a59ad958-9003-4092-bf71-6ef93e633055" name="Default Changelist" comment="" />
+      <created>1587033804529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587033804529</updated>
+    </task>
+    <servers />
+  </component>
+</project>
